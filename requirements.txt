@@ -1,0 +1,8 @@
+keyboard==0.13.5
+mouse==0.7.1
+pywinauto==0.6.8
+numpy==1.18.5
+opencv-python==4.2.0.34
+easygui==0.98.1
+Desktopmagic==14.3.11
+pywin32==227
