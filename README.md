@@ -10,7 +10,7 @@ We're using mainly [pywinauto](https://github.com/pywinauto/pywinauto) as a base
 
 I'll update this ReadMe file soon. For now, I've set up a [discord server](https://discord.gg/Uy5X7xn) that you can contact me on if you have any doubts or you want to help out in any way. 
 
-###Requirements
+### Requirements
 
 keyboard==0.13.5
 
