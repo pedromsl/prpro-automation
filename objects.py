@@ -384,7 +384,7 @@ def updatepanels(panelsdict=PANELS, uiconfig=False):
                 #now we want to know which panel is which on this monitor
                 panelctrl = monitorid['DroverLord - Frame Window%d' % (panel + 1)]
                 panelctrl.draw_outline(thickness=15)
-                time.sleep(1.5)
+                time.sleep(0.5)
                 panelname = easygui.choicebox("Which panel is this?", 'Config Panels', panelchoices)
 
                 if panelname is None:
