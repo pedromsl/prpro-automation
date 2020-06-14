@@ -52,3 +52,5 @@ easygui==0.98.1
 Desktopmagic==14.3.11  
   
 pywin32==227
+
+Pillow==7.1.2
